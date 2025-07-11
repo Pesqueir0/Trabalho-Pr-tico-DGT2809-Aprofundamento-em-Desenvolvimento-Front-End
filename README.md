@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como **trabalho prático da disciplina DGT2809 - A
 
 ## 👨‍💻 Desenvolvido por
 **Samuel Davidson**  
-[WISA TECH](wisatech.com.br)  
+[wisatech.com.br]
 Julho de 2025
 
 ---
